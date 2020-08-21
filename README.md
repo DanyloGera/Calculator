@@ -12,4 +12,4 @@
  If you enter something incorrectly in the field *result* will be "Error"
  ![Exemple](./Screen.png)
 
-[Enjoy](https://danylogera.github.io/Calculator/index_js.html)
+[ENJOY!](https://danylogera.github.io/Calculator/index_js.html)
